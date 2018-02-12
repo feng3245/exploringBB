@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Student.h
+string
+-
+
+/root/exploringBB/extras/cmake/studentlib_shared/src/Student.cpp
+iostream
+-
+Student.h
+/root/exploringBB/extras/cmake/studentlib_shared/src/Student.h
+

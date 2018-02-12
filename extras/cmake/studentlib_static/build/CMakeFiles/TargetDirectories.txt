@@ -1,0 +1,7 @@
+/root/exploringBB/extras/cmake/studentlib_static/build/CMakeFiles/install.dir
+/root/exploringBB/extras/cmake/studentlib_static/build/CMakeFiles/list_install_components.dir
+/root/exploringBB/extras/cmake/studentlib_static/build/CMakeFiles/rebuild_cache.dir
+/root/exploringBB/extras/cmake/studentlib_static/build/CMakeFiles/edit_cache.dir
+/root/exploringBB/extras/cmake/studentlib_static/build/CMakeFiles/testStudent.dir
+/root/exploringBB/extras/cmake/studentlib_static/build/CMakeFiles/install/strip.dir
+/root/exploringBB/extras/cmake/studentlib_static/build/CMakeFiles/install/local.dir
